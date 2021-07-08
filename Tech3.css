@@ -1,0 +1,28 @@
+body {
+	background-color: blue;
+}
+h1{
+	color: blue;
+}
+p{
+	color: green;
+}
+h1{
+	color: red;
+	font-family: courier;
+	font-size: 300%;
+}
+p{
+	border: 1px solid blue;
+	padding: 10px;
+	margin: 30px;
+}
+#p01{
+	color: blue;
+}
+
+<style>
+a:link {color: red;
+	background-color: transparent;text-decoration: underline;
+
+}
